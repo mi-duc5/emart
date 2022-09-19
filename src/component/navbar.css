@@ -1,0 +1,14 @@
+/* Navbar */
+.navbar-nav a {
+    font-style: 18px;
+}
+
+.nav-item {
+    text-transform: uppercase;
+}
+
+.logo {
+    width: 10%;
+    height: 10%;
+    object-fit: cover;
+}
